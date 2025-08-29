@@ -19,7 +19,7 @@ cd ~/netrum-lite-node
 netrum-new-wallet      # ya da: netrum-import-wallet
 ```
 
-## 2) .base adı (tarayıcıda mintle → sonra kontrol et)
+## 2) .base adı (tarayıcıda mintle → sonra kontrol et) https://www.base.org/names
 
 ```bash
 netrum-check-basename
