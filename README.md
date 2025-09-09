@@ -50,6 +50,7 @@ netrum-node-id
 ## 3) Kayıt (on-chain)
 
 ```bash
+netrum-node-sign
 netrum-node-register
 ```
 
