@@ -3,7 +3,7 @@
 Kayıt esnasında cüzdanınızda 0.0002 - 0.0005 BASE olması gerekmektedir.
 
 ---
-
+Discord Netrum: https://discord.gg/fEhXFsFX
 ## Donanım ve Ağ Gereksinimleri
 
 Netrum Lite Node’un stabil çalışması için en az aşağıdaki gereksinimleri karşılayın.
