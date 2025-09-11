@@ -89,3 +89,9 @@ sudo systemctl status netrum-node.service
 netrum-sync-log
 netrum-mining-log
 ```
+
++ olarak 
+Netrum WL için dc ve x gibi 5 kolay görev var. 
+
+!!! Sepolia base ağında eth istiyor fee için. 
+https://www.netrumlabs.com/Waitlist?ref=0xD5dAf889F76459Bd0C16C59B0B69A2494DaC1BbD
