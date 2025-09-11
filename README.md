@@ -90,7 +90,7 @@ netrum-sync-log
 netrum-mining-log
 ```
 
-+ olarak 
+DİKKAT 
 Netrum WL için dc ve x gibi 5 kolay görev var. 
 
 !!! Sepolia base ağında eth istiyor fee için. 
